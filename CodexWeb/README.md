@@ -12,6 +12,7 @@ Check out the configuration reference at https://huggingface.co/docs/hub/spaces-
 # Space secrets(Private)说明:   
 RCLONE_CONF:rclone配置内容
 
+## 备份脚本请使用backup.sh
 ## 由于使用编程语言不一样rust版本的数据目录和ts版的不一样
 rust:/app/data   
 ts:/app/apps/api/data   
